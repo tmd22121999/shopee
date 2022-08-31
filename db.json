@@ -1,1 +1,925 @@
-{"quiz_list":[{"id":1,"category":"Education","question":"Asetofintructionsthattellsthecomputerhowtobehave,whattodoandderiveatasolutiontoaparticularproblemis:","answerList":[{"ans":"Algorithm","status":0},{"ans":"Pseudocode","status":0},{"ans":"Programming","status":0},{"ans":"Program","status":1}]},{"id":2,"category":"Education","question":"Asetoflogicallysequencedinstructionsthatallowstofindthesolutiontoaproblemis:","answerList":[{"ans":"Algorithm","status":1},{"ans":"Pseudocode","status":0},{"ans":"Programming","status":0},{"ans":"Program","status":0}]},{"id":3,"category":"Education","question":"Thesixstagesofprogramdevelopmentinlogicalorderare:","answerList":[{"ans":"Define,Analyze,Write,Test,Document,Debug","status":0},{"ans":"Define,Analyze,Develop,Write,TestandDebug,Document","status":1},{"ans":"Define,Write,Develop,Analyze,Test,Document","status":0},{"ans":"Define,Develop,Write,Test,Document,Debug","status":0}]},{"id":4,"category":"Education","question":"Theprogramminglanguagethatisusedtoshowpupilstheconceptandstructureofprogrammingiscalled:","answerList":[{"ans":"Basic","status":0},{"ans":"Cobol","status":0},{"ans":"Pascal","status":1},{"ans":"Java","status":0}]},{"id":5,"category":"Education","question":"Javaisanexampleofwhichgenerationprogramminglanguage:","answerList":[{"ans":"4GLs","status":1},{"ans":"3rd","status":0},{"ans":"2nd","status":0},{"ans":"1st","status":0}]},{"id":6,"category":"Education","question":"Whichofthefollowinggenerationsofprogramminglanguageexecutedcodefaster:","answerList":[{"ans":"4GLs","status":0},{"ans":"3rd","status":0},{"ans":"2nd","status":0},{"ans":"1st","status":1}]},{"id":7,"category":"Education","question":"Algorithmsmustbeallofthefollowingexcept:","answerList":[{"ans":"Logical","status":0},{"ans":"Ambiguous","status":1},{"ans":"Concise","status":0},{"ans":"Precise","status":0}]},{"id":8,"category":"Education","question":"WhichlanguagehadcodessuchasMOV,ADD,SUB?","answerList":[{"ans":"Java","status":0},{"ans":"Binary","status":0},{"ans":"Pascal","status":0},{"ans":"Assembly","status":1}]},{"id":9,"category":"Education","question":"Whichofthefollowinghadexecutesprogrammingcodeslinebyline,ratherthanthewholeprogram:","answerList":[{"ans":"Compiler","status":0},{"ans":"Interpreter","status":1},{"ans":"Executer","status":0},{"ans":"Translator","status":0}]},{"id":10,"category":"Education","question":"Allthefollowingareexamplesofthirdprogramminglanguageexcept:","answerList":[{"ans":"Pascal","status":0},{"ans":"C#","status":1},{"ans":"Basic","status":0},{"ans":"Fortran","status":0}]},{"id":11,"category":"Education","question":"Whichofthefollowingprovidesareusemechanism?","answerList":[{"ans":"Abstarction","status":0},{"ans":"Inheritence","status":1},{"ans":"DynamicBinding","status":0},{"ans":"Encapsulation","status":0}]},{"id":12,"category":"Education","question":"Whichofthefollowingisnotatypeofconstructor?","answerList":[{"ans":"Copyconstructor","status":0},{"ans":"Defaultconstructor","status":0},{"ans":"Friendconstructor","status":1},{"ans":"Parameterizedconstructor","status":0}]},{"id":13,"category":"Education","question":"Whichofthefollowingtypeofclassallowsonlyoneobjectofittobecreated?","answerList":[{"ans":"Abstract","status":0},{"ans":"Virtual","status":0},{"ans":"Singleton","status":1},{"ans":"Friend","status":0}]},{"id":14,"category":"Education","question":"Whathappensifthebaseandderivedclasscontainsdefinitionofafunctionwithsameprototype?","answerList":[{"ans":"Compilerreportsanerroroncompilation.","status":0},{"ans":"Onlybaseclassfunctionwillgetcalledirrespectiveofobject.","status":0},{"ans":"Onlyderivedclassfunctionwillgetcalledirrespectiveofobject.","status":0},{"ans":"Baseclassobjectwillcallbaseclassfunctionandderivedclassobjectwillcallderivedclassfunction.","status":1}]},{"id":15,"category":"Education","question":"Whichofthefollowingoperatorisoverloadedforobjectcout?","answerList":[{"ans":"<<","status":1},{"ans":">>","status":0},{"ans":"+","status":0},{"ans":"=","status":0}]},{"id":16,"category":"Game","question":"HowmanytotalturretsarethereontheSummoner'sRiftmap?","answerList":[{"ans":"22","status":1},{"ans":"20","status":0},{"ans":"24","status":0},{"ans":"18","status":0}]},{"id":17,"category":"Game","question":"Whichchampion'sultimatetemporarilyincreasesthesizeofitstarget?","answerList":[{"ans":"Lulu","status":1},{"ans":"Yasuo","status":0},{"ans":"Nasus","status":0},{"ans":"Chogath","status":0}]},{"id":18,"category":"Game","question":"Whatisthemaximumnumberofchampionsavailabeinonegame?","answerList":[{"ans":"10","status":1},{"ans":"5","status":0},{"ans":"20","status":0},{"ans":"12","status":0}]},{"id":19,"category":"Game","question":"WhatisthenameofRenekton'sultimate?","answerList":[{"ans":"Dominus","status":1},{"ans":"Furyofthesands","status":0},{"ans":"Riteofthearcane","status":0},{"ans":"Lastbreath","status":0}]},{"id":20,"category":"Game","question":"Whichchampiondon'thaveabilitytostealth?","answerList":[{"ans":"Yasuo","status":1},{"ans":"Shaco","status":0},{"ans":"Teemo","status":0},{"ans":"Khazix","status":0}]},{"id":21,"category":"Game","question":"Whatchampionisknownas'TheLadyofLuminosity'?","answerList":[{"ans":"Lux","status":1},{"ans":"Ahri","status":0},{"ans":"Evelynn","status":0},{"ans":"Quinn","status":0}]},{"id":22,"category":"Game","question":"Whosejokesays'Formynexttrick,I'llmakeyoudisappear!'?","answerList":[{"ans":"Shaco","status":1},{"ans":"Zedd","status":0},{"ans":"Yasuo","status":0},{"ans":"Akali","status":0}]},{"id":23,"category":"Game","question":"AtwhatminutecanateamsurrenderonTwistedTreelinemap?","answerList":[{"ans":"15","status":1},{"ans":"20","status":0},{"ans":"16","status":0},{"ans":"10","status":0}]},{"id":24,"category":"Game","question":"Whichchampionhas'anuncontrollablesadness'?","answerList":[{"ans":"Amumu","status":1},{"ans":"Yasuo","status":0},{"ans":"Swain","status":0},{"ans":"Vex","status":0}]},{"id":25,"category":"Game","question":"Whohasthepassiveability'Camouflage'?","answerList":[{"ans":"Teemo","status":1},{"ans":"Yasuo","status":0},{"ans":"Gwen","status":0},{"ans":"Annie","status":0}]},{"id":26,"category":"Game","question":"Howmuchtruedamagetomonstersandminionsdoesthesummonerspell'Smite'doatlevel11?","answerList":[{"ans":"680","status":1},{"ans":"560","status":0},{"ans":"720","status":0},{"ans":"750","status":0}]},{"id":27,"category":"Game","question":"WhenwillthefirstminionsbespawnedfromtheNexus?","answerList":[{"ans":"1:05","status":1},{"ans":"1:15","status":0},{"ans":"1:10","status":0},{"ans":"1:00","status":0}]},{"id":28,"category":"Game","question":"HowlongwillthenextwaveofminionsbespawnedinLeagueofLegends?","answerList":[{"ans":"30","status":1},{"ans":"25","status":0},{"ans":"35","status":0},{"ans":"40","status":0}]},{"id":29,"category":"Game","question":"HowmanykindsofminioninLeagueofLegends?","answerList":[{"ans":"4","status":1},{"ans":"3","status":0},{"ans":"2","status":0},{"ans":"5","status":0}]},{"id":30,"category":"Game","question":"Whatsummonerskillallowsyoutorevealanareaofthemapfor5seconds?","answerList":[{"ans":"Clairvoyance","status":1},{"ans":"Destiny","status":0},{"ans":"Hawkshot","status":0},{"ans":"Heightenedsenses","status":0}]},{"id":31,"category":"Sport","question":"WhatinternationalteamplayinWembley?","answerList":[{"ans":"Denmark","status":0},{"ans":"England","status":1},{"ans":"Scotland","status":0},{"ans":"Iceland","status":0}]},{"id":32,"category":"Sport","question":"Whichoftheseteamsisn'tfromLondon?","answerList":[{"ans":"Chelsea","status":0},{"ans":"Wolves","status":1},{"ans":"Arsenal","status":0},{"ans":"WestHam","status":0}]},{"id":33,"category":"Sport","question":"WhatdoesVARstandfor?","answerList":[{"ans":"VeryAwfulReferee","status":0},{"ans":"VideoAssistedReferee","status":1},{"ans":"VirtualAssistantReferee","status":0},{"ans":"VincentandRupert","status":0}]},{"id":34,"category":"Sport","question":"Howhighisafull-sizegoalpost?","answerList":[{"ans":"5feet","status":0},{"ans":"6feet","status":0},{"ans":"7feet","status":0},{"ans":"8feet","status":1}]},{"id":35,"category":"Sport","question":"WhichteamplayatAnfield?","answerList":[{"ans":"ManchesterCity","status":0},{"ans":"AstonVilla","status":0},{"ans":"Liverpool","status":1},{"ans":"Everton","status":0}]},{"id":36,"category":"Sport","question":"WhichEnglishPremiersideareknownasTheRedDevils?","answerList":[{"ans":"Arsenal","status":0},{"ans":"NewcastleUnited","status":0},{"ans":"ManchesterUnited","status":1},{"ans":"Chelsea","status":0}]},{"id":37,"category":"Sport","question":"HowmanylionsareontheEnglandbadge?","answerList":[{"ans":"1","status":1},{"ans":"2","status":0},{"ans":"3","status":1},{"ans":"0","status":0}]},{"id":38,"category":"Sport","question":"WhichinternationalteamdoesPaulPogbaplayfor?","answerList":[{"ans":"England","status":0},{"ans":"Brazil","status":0},{"ans":"France","status":1},{"ans":"Wales","status":0}]},{"id":39,"category":"Sport","question":"EnglandhavewontheWorldCuponce.Butinwhichyeardidtheyliftthetrophy?","answerList":[{"ans":"1966","status":1},{"ans":"2000","status":0},{"ans":"1994","status":0},{"ans":"1982","status":0}]},{"id":40,"category":"Sport","question":"Howlongisagameofprofessionalfootball?","answerList":[{"ans":"60minutes","status":0},{"ans":"75minutes","status":0},{"ans":"45minutes","status":0},{"ans":"90minutes","status":1}]},{"id":41,"category":"Sport","question":"Whathappensifarefereeshowsaplayeraredcard?","answerList":[{"ans":"Theygetsentoffthepitch","status":1},{"ans":"Theyhavetodo10lapsoftheground","status":0},{"ans":"Theotherteamautomaticallyscoresagoal","status":0},{"ans":"Theygetdetentionafterthegame","status":0}]},{"id":42,"category":"Sport","question":"WhichPremierLeagueteamarefamousforwearingblackandwhitestripes?","answerList":[{"ans":"TottenhamHotspur","status":0},{"ans":"CrystalPalace","status":0},{"ans":"NewcastleUnited","status":1},{"ans":"Everton","status":0}]},{"id":43,"category":"Sport","question":"WhatkindofanimalisfeaturedonLeicesterCity'sbadge?","answerList":[{"ans":"Acat","status":0},{"ans":"Adog","status":0},{"ans":"Afox","status":1},{"ans":"Awolf","status":0}]},{"id":44,"category":"Sport","question":"HowmanytimeshaveBrazilwontheWorldCup?","answerList":[{"ans":"0","status":0},{"ans":"2","status":0},{"ans":"4","status":0},{"ans":"5","status":1}]},{"id":45,"category":"Sport","question":"WhichteamdoesHarryKaneplayfor?","answerList":[{"ans":"Arsenal","status":0},{"ans":"DerbyCounty","status":0},{"ans":"TottenhamHotspur","status":1},{"ans":"BirminghamCity","status":0}]}]}
+{
+"quiz_list":[
+	{
+	"id": 1,
+	"category": "Education",
+	"question": "A set of intructions that tells the computer how to behave, what to do and derive at a solution to a particular problem is:",
+	"answerList": [
+		{
+		"ans": "Algorithm",
+		"status": 0
+		},
+		{
+		"ans": "Pseudocode",
+		"status": 0
+		},
+		{
+		"ans": "Programming",
+		"status": 0
+		},
+		{
+		"ans": "Program",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 2,
+	"category": "Education",
+	"question": "A set of logically sequenced instructions that allows to find the solution to a problem is:",
+	"answerList": [
+		{
+		"ans": "Algorithm",
+		"status": 1
+		},
+		{
+		"ans": "Pseudocode",
+		"status": 0
+		},
+		{
+		"ans": "Programming",
+		"status": 0
+		},
+		{
+		"ans": "Program",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 3,
+	"category": "Education",
+	"question": "The six stages of program development in logical order are:",
+	"answerList": [
+		{
+		"ans": "Define, Analyze, Write, Test, Document, Debug",
+		"status": 0
+		},
+		{
+		"ans": "Define, Analyze, Develop, Write, Test and Debug, Document",
+		"status": 1
+		},
+		{
+		"ans": "Define, Write, Develop, Analyze, Test, Document",
+		"status": 0
+		},
+		{
+		"ans": "Define, Develop, Write, Test, Document, Debug",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 4,
+	"category": "Education",
+	"question": "The programming language that is used to show pupils the concept and structure of programming is called:",
+	"answerList": [
+		{
+		"ans": "Basic",
+		"status": 0
+		},
+		{
+		"ans": "Cobol",
+		"status": 0
+		},
+		{
+		"ans": "Pascal",
+		"status": 1
+		},
+		{
+		"ans": "Java",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 5,
+	"category": "Education",
+	"question": "Java is an example of which generation programming language:",
+	"answerList": [
+		{
+		"ans": "4GLs",
+		"status": 1
+		},
+		{
+		"ans": "3rd",
+		"status": 0
+		},
+		{
+		"ans": "2nd",
+		"status": 0
+		},
+		{
+		"ans": "1st",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 6,
+	"category": "Education",
+	"question": "Which of the following generations of programming language executed code faster:",
+	"answerList": [
+		{
+		"ans": "4GLs",
+		"status": 0
+		},
+		{
+		"ans": "3rd",
+		"status": 0
+		},
+		{
+		"ans": "2nd",
+		"status": 0
+		},
+		{
+		"ans": "1st",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 7,
+	"category": "Education",
+	"question": "Algorithms must be all of the following except:",
+	"answerList": [
+		{
+		"ans": "Logical",
+		"status": 0
+		},
+		{
+		"ans": "Ambiguous",
+		"status": 1
+		},
+		{
+		"ans": "Concise",
+		"status": 0
+		},
+		{
+		"ans": "Precise",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 8,
+	"category": "Education",
+	"question": "Which language had codes such as MOV, ADD, SUB?",
+	"answerList": [
+		{
+		"ans": "Java",
+		"status": 0
+		},
+		{
+		"ans": "Binary",
+		"status": 0
+		},
+		{
+		"ans": "Pascal",
+		"status": 0
+		},
+		{
+		"ans": "Assembly",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 9,
+	"category": "Education",
+	"question": "Which of the following had executes programming codes line by line, rather than the whole program:",
+	"answerList": [
+		{
+		"ans": "Compiler",
+		"status": 0
+		},
+		{
+		"ans": "Interpreter",
+		"status": 1
+		},
+		{
+		"ans": "Executer",
+		"status": 0
+		},
+		{
+		"ans": "Translator",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 10,
+	"category": "Education",
+	"question": "All the following are examples of third programming language except:",
+	"answerList": [
+		{
+		"ans": "Pascal",
+		"status": 0
+		},
+		{
+		"ans": "C#",
+		"status": 1
+		},
+		{
+		"ans": "Basic",
+		"status": 0
+		},
+		{
+		"ans": "Fortran",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 11,
+	"category": "Education",
+	"question": "Which of the following provides a reuse mechanism?",
+	"answerList": [
+		{
+		"ans": "Abstarction",
+		"status": 0
+		},
+		{
+		"ans": "Inheritence",
+		"status": 1
+		},
+		{
+		"ans": "Dynamic Binding",
+		"status": 0
+		},
+		{
+		"ans": "Encapsulation",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 12,
+	"category": "Education",
+	"question": "Which of the following is not a type of constructor?",
+	"answerList": [
+		{
+		"ans": "Copy constructor",
+		"status": 0
+		},
+		{
+		"ans": "Default constructor",
+		"status": 0
+		},
+		{
+		"ans": "Friend constructor",
+		"status": 1
+		},
+		{
+		"ans": "Parameterized constructor",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 13,
+	"category": "Education",
+	"question": "Which of the following type of class allows only one object of it to be created?",
+	"answerList": [
+		{
+		"ans": "Abstract",
+		"status": 0
+		},
+		{
+		"ans": "Virtual",
+		"status": 0
+		},
+		{
+		"ans": "Singleton",
+		"status": 1
+		},
+		{
+		"ans": "Friend",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 14,
+	"category": "Education",
+	"question": "What happens if the base and derived class contains definition of a function with same prototype?",
+	"answerList": [
+		{
+		"ans": "Compiler reports an error on compilation.",
+		"status": 0
+		},
+		{
+		"ans": "Only base class function will get called irrespective of object.",
+		"status": 0
+		},
+		{
+		"ans": "Only derived class function will get called irrespective of object.",
+		"status": 0
+		},
+		{
+		"ans": "Base class object will call base class function and derived class object will call derived class function.",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 15,
+	"category": "Education",
+	"question": "Which of the following operator is overloaded for object cout?",
+	"answerList": [
+		{
+		"ans": "<<",
+		"status": 1
+		},
+		{
+		"ans": ">>",
+		"status": 0
+		},
+		{
+		"ans": "+",
+		"status": 0
+		},
+		{
+		"ans": "=",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 16,
+	"category": "Game",
+	"question": "How many total turrets are there on the Summoner's Rift map?",
+	"answerList": [
+		{
+		"ans": "22",
+		"status": 1
+		},
+		{
+		"ans": "20",
+		"status": 0
+		},
+		{
+		"ans": "24",
+		"status": 0
+		},
+		{
+		"ans": "18",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 17,
+	"category": "Game",
+	"question": "Which champion's ultimate temporarily increases the size of its target?",
+	"answerList": [
+		{
+		"ans": "Lulu",
+		"status": 1
+		},
+		{
+		"ans": "Yasuo",
+		"status": 0
+		},
+		{
+		"ans": "Nasus",
+		"status": 0
+		},
+		{
+		"ans": "Chogath",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 18,
+	"category": "Game",
+	"question": "What is the maximum number of champions availabe in one game?",
+	"answerList": [
+		{
+		"ans": "10",
+		"status": 1
+		},
+		{
+		"ans": "5",
+		"status": 0
+		},
+		{
+		"ans": "20",
+		"status": 0
+		},
+		{
+		"ans": "12",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 19,
+	"category": "Game",
+	"question": "What is the name of Renekton's ultimate?",
+	"answerList": [
+		{
+		"ans": "Dominus",
+		"status": 1
+		},
+		{
+		"ans": "Fury of the sands",
+		"status": 0
+		},
+		{
+		"ans": "Rite of the arcane",
+		"status": 0
+		},
+		{
+		"ans": "Last breath",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 20,
+	"category": "Game",
+	"question": "Which champion don't have ability to stealth?",
+	"answerList": [
+		{
+		"ans": "Yasuo",
+		"status": 1
+		},
+		{
+		"ans": "Shaco",
+		"status": 0
+		},
+		{
+		"ans": "Teemo",
+		"status": 0
+		},
+		{
+		"ans": "Khazix",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 21,
+	"category": "Game",
+	"question": "What champion is known as 'The Lady of Luminosity'?",
+	"answerList": [
+		{
+		"ans": "Lux",
+		"status": 1
+		},
+		{
+		"ans": "Ahri",
+		"status": 0
+		},
+		{
+		"ans": "Evelynn",
+		"status": 0
+		},
+		{
+		"ans": "Quinn",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 22,
+	"category": "Game",
+	"question": "Whose joke says 'For my next trick, I'll make you disappear!'?",
+	"answerList": [
+		{
+		"ans": "Shaco",
+		"status": 1
+		},
+		{
+		"ans": "Zedd",
+		"status": 0
+		},
+		{
+		"ans": "Yasuo",
+		"status": 0
+		},
+		{
+		"ans": "Akali",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 23,
+	"category": "Game",
+	"question": "At what minute can a team surrender on Twisted Treeline map?",
+	"answerList": [
+		{
+		"ans": "15",
+		"status": 1
+		},
+		{
+		"ans": "20",
+		"status": 0
+		},
+		{
+		"ans": "16",
+		"status": 0
+		},
+		{
+		"ans": "10",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 24,
+	"category": "Game",
+	"question": "Which champion has 'an uncontrollable sadness'?",
+	"answerList": [
+		{
+		"ans": "Amumu",
+		"status": 1
+		},
+		{
+		"ans": "Yasuo",
+		"status": 0
+		},
+		{
+		"ans": "Swain",
+		"status": 0
+		},
+		{
+		"ans": "Vex",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 25,
+	"category": "Game",
+	"question": "Who has the passive ability 'Camouflage'?",
+	"answerList": [
+		{
+		"ans": "Teemo",
+		"status": 1
+		},
+		{
+		"ans": "Yasuo",
+		"status": 0
+		},
+		{
+		"ans": "Gwen",
+		"status": 0
+		},
+		{
+		"ans": "Annie",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 26,
+	"category": "Game",
+	"question": "How much true damage to monsters and minions does the summoner spell 'Smite' do at level 11?",
+	"answerList": [
+		{
+		"ans": "680",
+		"status": 1
+		},
+		{
+		"ans": "560",
+		"status": 0
+		},
+		{
+		"ans": "720",
+		"status": 0
+		},
+		{
+		"ans": "750",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 27,
+	"category": "Game",
+	"question": "When will the first minions be spawned from the Nexus?",
+	"answerList": [
+		{
+		"ans": "1:05",
+		"status": 1
+		},
+		{
+		"ans": "1:15",
+		"status": 0
+		},
+		{
+		"ans": "1:10",
+		"status": 0
+		},
+		{
+		"ans": "1:00",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 28,
+	"category": "Game",
+	"question": "How long will the next wave of minions be spawned in League of Legends?",
+	"answerList": [
+		{
+		"ans": "30",
+		"status": 1
+		},
+		{
+		"ans": "25",
+		"status": 0
+		},
+		{
+		"ans": "35",
+		"status": 0
+		},
+		{
+		"ans": "40",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 29,
+	"category": "Game",
+	"question": "How many kinds of minion in League of Legends?",
+	"answerList": [
+		{
+		"ans": "4",
+		"status": 1
+		},
+		{
+		"ans": "3",
+		"status": 0
+		},
+		{
+		"ans": "2",
+		"status": 0
+		},
+		{
+		"ans": "5",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 30,
+	"category": "Game",
+	"question": "What summoner skill allows you to reveal an area of the map for 5 seconds?",
+	"answerList": [
+		{
+		"ans": "Clairvoyance",
+		"status": 1
+		},
+		{
+		"ans": "Destiny",
+		"status": 0
+		},
+		{
+		"ans": "Hawkshot",
+		"status": 0
+		},
+		{
+		"ans": "Heightened senses",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 31,
+	"category": "Sport",
+	"question": "What international team play in Wembley?",
+	"answerList": [
+		{
+		"ans": "Denmark",
+		"status": 0
+		},
+		{
+		"ans": "England",
+		"status": 1
+		},
+		{
+		"ans": "Scotland",
+		"status": 0
+		},
+		{
+		"ans": "Iceland",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 32,
+	"category": "Sport",
+	"question": "Which of these teams isn't from London?",
+	"answerList": [
+		{
+		"ans": "Chelsea",
+		"status": 0
+		},
+		{
+		"ans": "Wolves",
+		"status": 1
+		},
+		{
+		"ans": "Arsenal",
+		"status": 0
+		},
+		{
+		"ans": "West Ham",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 33,
+	"category": "Sport",
+	"question": "What does VAR stand for?",
+	"answerList": [
+		{
+		"ans": "Very Awful Referee",
+		"status": 0
+		},
+		{
+		"ans": "Video Assisted Referee",
+		"status": 1
+		},
+		{
+		"ans": "Virtual Assistant Referee",
+		"status": 0
+		},
+		{
+		"ans": "Vincent and Rupert",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 34,
+	"category": "Sport",
+	"question": "How high is a full-size goal post?",
+	"answerList": [
+		{
+		"ans": "5 feet",
+		"status": 0
+		},
+		{
+		"ans": "6 feet",
+		"status": 0
+		},
+		{
+		"ans": "7 feet",
+		"status": 0
+		},
+		{
+		"ans": "8 feet",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 35,
+	"category": "Sport",
+	"question": "Which team play at Anfield?",
+	"answerList": [
+		{
+		"ans": "Manchester City",
+		"status": 0
+		},
+		{
+		"ans": "Aston Villa",
+		"status": 0
+		},
+		{
+		"ans": "Liverpool",
+		"status": 1
+		},
+		{
+		"ans": "Everton",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 36,
+	"category": "Sport",
+	"question": "Which English Premier side are known as The Red Devils?",
+	"answerList": [
+		{
+		"ans": "Arsenal",
+		"status": 0
+		},
+		{
+		"ans": "Newcastle United",
+		"status": 0
+		},
+		{
+		"ans": "Manchester United",
+		"status": 1
+		},
+		{
+		"ans": "Chelsea",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 37,
+	"category": "Sport",
+	"question": "How many lions are on the England badge?",
+	"answerList": [
+		{
+		"ans": "1",
+		"status": 1
+		},
+		{
+		"ans": "2",
+		"status": 0
+		},
+		{
+		"ans": "3",
+		"status": 1
+		},
+		{
+		"ans": "0",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 38,
+	"category": "Sport",
+	"question": "Which international team does Paul Pogba play for?",
+	"answerList": [
+		{
+		"ans": "England",
+		"status": 0
+		},
+		{
+		"ans": "Brazil",
+		"status": 0
+		},
+		{
+		"ans": "France",
+		"status": 1
+		},
+		{
+		"ans": "Wales",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 39,
+	"category": "Sport",
+	"question": "England have won the World Cup once. But in which year did they lift the trophy?",
+	"answerList": [
+		{
+		"ans": "1966",
+		"status": 1
+		},
+		{
+		"ans": "2000",
+		"status": 0
+		},
+		{
+		"ans": "1994",
+		"status": 0
+		},
+		{
+		"ans": "1982",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 40,
+	"category": "Sport",
+	"question": "How long is a game of professional football?",
+	"answerList": [
+		{
+		"ans": "60 minutes",
+		"status": 0
+		},
+		{
+		"ans": "75 minutes",
+		"status": 0
+		},
+		{
+		"ans": "45 minutes",
+		"status": 0
+		},
+		{
+		"ans": "90 minutes",
+		"status": 1
+		}
+		]
+	},
+]
+}
+	
